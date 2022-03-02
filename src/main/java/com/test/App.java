@@ -2,7 +2,7 @@ package com.test;
 
 class App {
 	public static void main(String[] args){
-		System.out.printlnss("hello all Friends");
+		System.out.println("hello all Friends");
 		
 	}
 
